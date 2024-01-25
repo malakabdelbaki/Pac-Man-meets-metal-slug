@@ -1,4 +1,4 @@
-# Console Shooter Game: Heroic Showdown
+# Console Shooter Game: Pac-Man-meets-metal-slug
 
 Welcome to Heroic Showdown, a console-based 2D shooter game that seamlessly fuses the excitement of Pac-Man and Metal Slug. Your mission is to navigate through a 15x15 grid, vanquishing monsters and emerging victorious. Choose your hero wisely, select your weapons strategically, and dive into the pixelated battlefield!
 
@@ -78,5 +78,16 @@ Welcome to Heroic Showdown, a console-based 2D shooter game that seamlessly fuse
 
 - **Win:**
   - All monsters are vanquished from the grid.
+ 
+## Implementation
+- Implement the class Object, from which all other classes are derived.
+- Implement the class Character, from which Hero and Monster are derived.
+- Implement the class Gun and its derived classes.
+- Implement the class Item, and its derived classes.
+- Implement the class Game, which represents the grid.
+- Operator overloading for display and interactions between hero and other elements of the game.
+- Implement methods to apply game logic and special abilities
+- Manage game flow, rounds and update map dynamically.
 
+  
 Get ready for a thrilling adventure in Heroic Showdown. Choose your hero, load your weapons, and let the battle begin! 🕹️💥
